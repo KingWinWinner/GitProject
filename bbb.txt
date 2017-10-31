@@ -1,7 +1,10 @@
 新增了bbb.txt文件
 
 修改了bbb.txt文件
+<<<<<<< HEAD
 
 add pulic void add(){};
 
 sdfsdf;
+=======
+>>>>>>> parent of 82eb2b0... 修改了bbb.txt多处代码
